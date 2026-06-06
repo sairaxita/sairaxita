@@ -51,3 +51,5 @@ If you're building something with LLMs, RAG, or vision-language models or need s
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat&logo=meta&logoColor=white)
+![Open to work](https://img.shields.io/badge/Open%20to-Remote%20%26%20Freelance-brightgreen?style=flat&logo=briefcase)
+![Profile views](https://komarev.com/ghpvc/?username=sairaxita&color=7F77DD&style=flat&label=Profile+views)
