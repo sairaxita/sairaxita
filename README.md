@@ -20,9 +20,6 @@ Currently an AI/ML intern at **Nushift Technologies**, building a production RAG
 ### 🔬 RAG-Powered Medical Image Analysis *(production, internship)*
 Vision-language system using Qwen2-VL + FAISS for context-aware medical image interpretation. Custom prompt engineering improved output quality by 60%. Integrated MCP servers with Google Drive and Gmail for automated logging and flagged-content review workflows. Built for CPU-only inference.
 
-### 📋 NuScript *(ongoing)*
-End-to-end prescription reader: handwritten image → Qwen2-VL (OCR) → scispaCy (NLP) → RxNorm (drug validation) → Gemini Flash (patient education) → multilingual output. Target: <10s latency, $0/month infra cost, 90%+ accuracy. Built around real hardware constraints, not ideal ones.
-
 ### 🤖 Autonomous Research Agent *(ongoing)*
 Multi-LLM orchestration using LangGraph + RAG. Breaks down complex questions, routes between OpenAI and Claude with fallback chains, and uses Redis semantic caching — cut API costs by 40%. Ships with a FastAPI + React interface for streaming and approvals.
 
