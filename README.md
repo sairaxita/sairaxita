@@ -20,8 +20,9 @@ Currently an AI/ML intern at **Nushift Technologies**, building a production RAG
 ### 🔬 RAG-Powered Medical Image Analysis *(production, internship)*
 Vision-language system using Qwen2-VL + FAISS for context-aware medical image interpretation. Custom prompt engineering improved output quality by 60%. Integrated MCP servers with Google Drive and Gmail for automated logging and flagged-content review workflows. Built for CPU-only inference.
 
-### 🤖 Autonomous Research Agent *(ongoing)*
-Multi-LLM orchestration using LangGraph + RAG. Breaks down complex questions, routes between OpenAI and Claude with fallback chains, and uses Redis semantic caching — cut API costs by 40%. Ships with a FastAPI + React interface for streaming and approvals.
+### 🤖 Multi Agent Research Assistant
+A multi-agent AI research system that searches the web, scrapes relevant sources, and generates detailed research reports using Gemini, LangChain, and Tavily.
+It also uses a critic agent to review the generated report and provide feedback on its quality and completeness.
 
 ### 🌍 Land Cover Classification
 Wide-ResNet50 trained on satellite imagery for land use classification. Transfer learning + dropout + adaptive optimization. Includes a frontend for real-time predictions.
