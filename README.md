@@ -17,7 +17,7 @@ Currently an AI/ML intern at **Nushift Technologies**, building a production RAG
 
 ## 🔨 Projects worth looking at
 
-### 🔬 RAG-Powered Medical Image Analysis *(production, internship)*
+### 🔬 RAG-Powered Medical Image Analysis *(internship)*
 Vision-language system using Qwen2-VL + FAISS for context-aware medical image interpretation. Custom prompt engineering improved output quality by 60%. Integrated MCP servers with Google Drive and Gmail for automated logging and flagged-content review workflows. Built for CPU-only inference.
 
 ### 🤖 Multi Agent Research Assistant
